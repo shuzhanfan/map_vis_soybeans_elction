@@ -6,4 +6,4 @@ The tool used for visualizing data on a map is called [Folium](https://github.co
 
 I also wrote a blog post about this. Check the post on my personal website: [Here](https://shuzhanfan.github.io/2018/04/visualization-of-tarrif-and-election/).
 
-<iframe src="./data/map2.html" height="400px" width="100%"></iframe>
+![resulting map](https://raw.githubusercontent.com/shuzhanfan/map_vis_soybeans_elction/master/result_map.jpg)
